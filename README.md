@@ -5,13 +5,16 @@
 该项目主要是为了构建一个更适合我个人使用的网址导航站点，一切从简，以简约实用为原则做个简单纯粹的网址导航。
 
 WebStack项目地址：https://github.com/WebStackPage/WebStackPage.github.io
+
 钻芒二开项目地址：https://github.com/wclk/WebStack_ZMKI
 
 ## 文件目录介绍
 
 根目录-----
       |--admin    //独立页面图标需要更改的write-page.php  write-pst.php 
+      
       |--favicon  //自动网站的Favicon图标并显示在你的网页上
+      
       |--Webstack //主题文件
       
 ## 安装教程
