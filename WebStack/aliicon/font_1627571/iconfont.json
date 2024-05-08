@@ -1,0 +1,58 @@
+{
+  "id": "1627571",
+  "name": "暗黑模式",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1948826",
+      "name": "月亮-实心",
+      "font_class": "yueliang-shixin",
+      "unicode": "e8f0",
+      "unicode_decimal": 59632
+    },
+    {
+      "icon_id": "2617708",
+      "name": "月亮 (1)",
+      "font_class": "yueliang",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "2869208",
+      "name": "月亮",
+      "font_class": "yueliang1",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "4428286",
+      "name": "月亮",
+      "font_class": "yueliang2",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "8158189",
+      "name": "月亮",
+      "font_class": "yueliang3",
+      "unicode": "e7c3",
+      "unicode_decimal": 59331
+    },
+    {
+      "icon_id": "12043754",
+      "name": "夜间模式",
+      "font_class": "yejianmoshi",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "12824617",
+      "name": "夜间晴",
+      "font_class": "yejianqing",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
